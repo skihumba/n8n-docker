@@ -1,6 +1,6 @@
-# N8N Docker Deployment
+# n8n docker setup with PostgreSQL & ngrok
 
-This repository contains a Docker Compose configuration for running [n8n](https://n8n.io/), an extendable workflow automation tool, alongside PostgreSQL for data storage and ngrok for secure tunneling.
+This repository contains a Docker Compose configuration for running [n8n](https://n8n.io/), an extendable workflow automation tool, alongside [PostgreSQL](https://www.postgresql.org) for data storage and [ngrok](https://ngrok.com) for secure tunneling.
 
 ## Overview
 
